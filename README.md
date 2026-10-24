@@ -12,6 +12,7 @@
   <a href="https://duty1g.online"><img src="https://img.shields.io/badge/Red-Team-red" alt="Red Team"/></a>
   <a href="https://duty1g.online"><img src="https://img.shields.io/badge/Reverse%20Engineering-purple" alt="Reverse Engineering"/></a>
   <a href="https://twitter.com/duty_1g"><img src="https://img.shields.io/twitter/follow/duty_1g.svg?logo=twitter" alt="Twitter"/></a>
+  <a href="https://madewithrea.com/builds/x64dbg-mcp-server-native-mcp-plugin-to-drive-x64dbg-from-ai-assistants"><img src="https://madewithrea.com/badges/featured.svg" alt="Featured on Made with REA" height="20"></a>
 </p>
 
 <p align="center">
